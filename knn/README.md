@@ -1,4 +1,4 @@
-# K Nearest Neighbors algorithm using Breat Cancer Data
+# K Nearest Neighbors algorithm on Breat Cancer Data
 
 Data Source: [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29)
 
