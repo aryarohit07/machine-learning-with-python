@@ -4,5 +4,5 @@ Data source: [Quandl](https://www.quandl.com/product/WIKIP/WIKI/PRICES-Quandl-En
 
 **Notebooks:**
 
-* `lr_with_sklearn.ipynb` - Linear Regression implemented using scikit-learn to predict google's stock price.
-* `custom_linear_regression_implementation.ipynb` - custom implemenation of linear regression without using any ML library.
+* `linear_regression_with_sklearn.ipynb` - Linear Regression implemented using scikit-learn to predict google's stock price.
+* `linear_regression_from_scratch.ipynb` - Linear Regression implemented without using any ML library.

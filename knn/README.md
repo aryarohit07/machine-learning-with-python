@@ -23,8 +23,8 @@ data set description
 **Notebooks:**
 
 * `knn_with_sklearn.ipynb` - knn using scikit-learn on breast cancer to data to classify if the cancer is benign or malignant
-* `knn_custom_implementation.ipynb` - knn algorithm implemented without using any ML library.
-* `breast_cancer_data_with_our_knn.ipynb` - custom knn algo acccuracy check on the same breast cancer data.
+* `knn_from_scratch.ipynb` - knn algorithm implemented without using any ML library.
+* `breast_cancer_data_with_our_knn.ipynb` - knn from scratch algo acccuracy check on the same breast cancer data.
 
 
-The idea of using custom knn implemenation is not improve the speed of the algorithm but to see if we can achieve the same accuracy with our own knn algorithm.
+The idea of using knn from scratch is not improve the speed of the algorithm but to see if we can achieve the same accuracy with our own knn algorithm.
