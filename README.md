@@ -1,5 +1,5 @@
 # Machine Learning With Python
 
-My work through the awesome [Practical Machine Learning with Python](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/) series.
+My work through couple of machine learning problems. Both from scratch and by using scikit-learn.
 
-All directories have their own README.md
+All directories have their own `README.md` :)
